@@ -1,0 +1,21 @@
+{
+    "name": "rkashapov2015/yii2-questionary",
+    "description": "Questionary component",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rinat Kashapov",
+            "email": "rkashapov85@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "rkashapov2015\\questionary\\": ""
+        }
+    }
+}
